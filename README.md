@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  <a href="https://baokan0.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);钟舒书祝您今天过的愉快!&center=true&size=27">
   </a>
 </h1>
 
@@ -11,15 +11,15 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://baokan0.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=all0aaron" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
@@ -27,24 +27,22 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;" 认真的生活，认真的做选择，并且为自己的选择负责。"Hi,我是钟舒书! 一只英短的铲屎官，对一切新鲜的事物充满好奇，对自己的要求是每天都要比昨天进步一点点!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始的太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 💪 正在学习: 
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -55,11 +53,9 @@
 🧠 计划学习:
 
 &emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
@@ -105,9 +101,9 @@
 </div>
 <br>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
-<br>
+<!-- metrics 基础资料
+<div align="center"><img src="#" alt="base metrics"/></div>
+<br> -->
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
@@ -128,28 +124,24 @@
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
+### 🤹‍♀️ <a href="https://baokan0.com/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
-* <a href='https://sunguoqi.com/posts/fiddler.html' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
-* <a href='https://sunguoqi.com/posts/4243.html' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
-* <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
-* <a href='https://sunguoqi.com/posts/cuiqingcai.html' target='_blank'>21年终总结&&关于我自学爬虫的点滴经历</a> - 2021-12-31
+* <a href='https://www.baokan0.com/posts/2148/' target='_blank'>Git学习笔记！</a> - 2021-10-11
+* <a href='https://www.baokan0.com/posts/e12/' target='_blank'>Web前端开发规范手册！</a> - 2021-10-25
+* <a href='http://baokan9.66dw.net/' target='_blank'>博主的百货商城</a> - 2022-01-09
 <!-- END_SECTION:blog -->
   
 </td>
     
 <td valign="top">
   
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
+### 🤾‍♂️ <a href="https://home.baokan0.com/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
 * <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
+* <a href='https://book.douban.com/subject/35459915/' target='_blank'>想读海边的房间</a> - 2021-11-12
+* <a href='https://movie.douban.com/subject/3001114/' target='_blank'>想看沙丘</a> - 2021-03-07
 <!-- END_SECTION:douban -->
   
 </td> 
@@ -189,7 +181,7 @@ Sunday       82 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+⌚︎ Time Zone: Asia/Nanchang
 
 💬 Programming Languages: 
 HTML                     4 mins              █████████████████████████   100.0%
@@ -231,29 +223,6 @@ Windows                  4 mins              ███████████�
 </table>
 
 <!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/bilibili.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
-    </td>
-  </tr>
-</table>
 
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
@@ -263,6 +232,5 @@ Windows                  4 mins              ███████████�
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
