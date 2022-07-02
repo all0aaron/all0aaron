@@ -27,10 +27,7 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;" 认真的生活，认真的做选择，并且为自己的选择负责。"Hi,我是钟舒书! 一只英短的铲屎官，对一切新鲜的事物充满好奇，对自己的要求是每天都要比昨天进步一点点!</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-
+<p>✍️&nbsp;&nbsp;" 认真的生活，认真的做选择，并且为自己的选择负责。"Hi,我是钟舒书! 一只英短的铲屎官</p>
 
 💪 正在学习: 
 
